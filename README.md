@@ -1,4 +1,4 @@
-## Hello Word!... 👋
+## Hello Word! 👋
 
 
 
