@@ -2,7 +2,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+o+Athelstan;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+o+Athelstan;Estudante+de+programação+)
 
 
 
