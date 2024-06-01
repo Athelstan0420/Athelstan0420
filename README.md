@@ -1,5 +1,22 @@
 ## Olá! Eu sou o Athelstan... 👋
 
+
+
+
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=3B95F7&left=true&vCenter=true&width=1500&lines=I'm+a+Software+Engineer;With+Hacking+skills)](https://git.io/typing-svg) <br><hr>
+<img src="https://github.com/GiovanniMatos/GiovanniMatos/assets/99231397/204ed6bd-2ccd-4395-b551-1f518a2b155b" align="right" height="290px" width="400px">
+
+
+
+
+
+
+
+
+
+
+
+
  <div>
   <a href="https://github.com/Athelstan0420">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Athelstan0420&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
