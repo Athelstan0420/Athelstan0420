@@ -2,9 +2,7 @@
 
 
 
-
-[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=3B95F7&left=true&vCenter=true&width=1500&lines=I'm+a+Software+Engineer;With+Hacking+skills)](https://git.io/typing-svg) <br><hr>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text
 
 
 
