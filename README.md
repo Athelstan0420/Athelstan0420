@@ -1,5 +1,5 @@
 ## Hello Word! 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+o+Athelstan;Sou+estudante+de+programação)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!)
 ##
  <div>
   <a href="https://github.com/Athelstan0420">
