@@ -1,4 +1,4 @@
-ADRIEL MEDEIROS
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!)
 ##
  <div>
