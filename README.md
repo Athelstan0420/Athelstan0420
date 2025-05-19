@@ -10,7 +10,7 @@
 
 <div>
 
-  <img height="180em" width="1000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athelstan0420&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athelstan0420&layout=compact&langs_count=16&theme=dark"/>
 
 <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Athelstan0420&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)"/>
